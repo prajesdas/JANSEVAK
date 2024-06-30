@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Welcome Page HealthCare</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.1/aos.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;1,600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" th:href="@{/static/css/homePage.css}">
+
+  </head>
+
+  <body>
+
+    <div class="wrapper">
+      <div class="nav">
+        <div class="logo_img">
+            <!-- <img src="logo1.jpg" /> -->
+        
+            <h2>&lt;JANSEVAK/></h2>
+        </div>
+        <div class="links">
+            <a href="/home" target="_self" class="mainlink"> Home </a>
+            <a href="/about" target="_self" class="don" > About Us</a>
+            <a href="/Doctor" target="_self"> Doctors </a>
+            <a href="/contact" target="_self"> Contact </a>
+          <!-- <a class="button" href="#"> Login </a>
+          <a class="buttn" href="#"> Signup </a> -->
+        </div>
+        <a class="button" href="/login"> Login </a>
+          <a class="buttn" href="/register"> Signup </a>
+      </div>
+
+      <!-------Landing Page -->
+      <div class="landing">
+        <div class="landingText" data-aos="fade-up" data-aous-duration="1000">
+            <h1>Bringing The Future Of <span style="color:red; font-size: 5vw;"></span> Health Care</h1>
+            <h2>Come explore the future of healthcare with us. It's a place where new ideas and technology are changing how doctors help people. Imagine going to a clinic where your treatment is made just for you, based on your own health information. Think about wearable gadgets that watch your health all the time, helping you stay healthy. In this future, everyone works together to make sure healthcare is fair and available to everyone. Join us as we work together to make healthcare better for everyone</h2>
+        </div>
+        <div class ="landingImage" data-aos="fade-down" data-aous-duration="2000">
+            <img src="banner_img.jpg" alt ="">
+        </div>
+      </div>
+
+
+
+        <!-----------Service Section------->
+
+
+
+      <div class="about">
+        <div class="aboutText" data-aos="fade-up" data-aous-duration="1000">
+            <h1>Our Patients are at the Centre <span style="color : #2f8be0; font-size: 3vw;">Everything We Do</span></h1>
+            <div>
+                <img th:src="@{/static/images/insurance.jpg}" class="purna" alt="">
+            </div>
+            
+            
+        </div>
+        <div class="aboutList" data-aos="fade-left" data-aous-duration="1000">
+            <ol>
+                <li>
+                    <span>01</span>
+                    <p>Modern Technology</p>
+                </li>
+                 <li>
+                    <span>02</span>
+                    <p>World Class Facilities</p>
+                </li>
+                 <li>
+                    <span>03</span>
+                    <p>Top Insurances</p>
+                </li>
+                 <li>
+                    <span>04</span>
+                    <p>Experienced Doctors</p>
+                </li>
+                 <li>
+                    <span>05</span>
+                    <p>24 Hours Support</p>
+                </li>
+
+            </ol>
+        </div>
+      </div>
+      <!--------Info Section------->
+
+      <div class="infoSection">
+        <div class="infoHeader" data-aos="fade-up" data-aous-duration="1000">
+            <h1>We Analyse Your Health States<br> <span style="color:red;"></span>In Order To Top Service.</h1></div>
+            <div class="infoCards">
+                <div class="card one" data-aos="fade-up" data-aous-duration="1000">
+                    <img src="banner_1.svg" class ="cardoneImg" alt="" data-aos="fade-up" data-aous-duration="1100">
+                    <div class="cardbgone">
+                    </div>
+                    <div class="cardcontent">
+                        <h2>Health Service</h2>
+                        <p>Experience the future of healthcare with our innovative services. We offer personalized treatments using advanced technology and real-time health monitoring. Join us in creating a healthier world through collaboration and accessible, equitable care</p>
+                        <!-- <a href="#"> -->
+                            <!-- <div class="cardBtn">
+                                <img src="next.png" class="cardIcon">
+                            </div> -->
+                        <!-- </a> -->
+                    </div>
+                </div>
+
+
+
+                <div class="card two" data-aos="fade-up" data-aous-duration="1300">
+                    <img src="banner_1.svg" class ="cartwoImg" alt="" data-aos="fade-up" data-aous-duration="1200">
+                    <div class="cardbgtwo">
+                    </div>
+                    <div class="cardcontent">
+                        <h2>Easy Appointment</h2>
+                        <p>It's designed to be user-friendly, helping you schedule visits with healthcare providers quickly and easily. With its intuitive features, you can choose appointment times that suit you and avoid the hassle of complicated scheduling. Say goodbye to long waits and hello to hassle-free healthcare access with Easy Appointment</p>
+                        <!-- <a href="#">
+                            <div class="cardBtn">
+                                <img src="next.png" class="cardIcon">
+                            </div>
+                        </a> -->
+                    </div>
+                </div>
+
+
+                <div class="card three" data-aos="fade-up" data-aous-duration="1600">
+                    <img src="banner_1.svg" class ="carthreeImg" alt="" data-aos="fade-up" data-aous-duration="1300">
+                    <div class="cardbgthree">
+                    </div>
+                    <div class="cardcontent">
+                        <h2>Qualified Doctors</h2>
+                        <p> you're in good hands with experienced and well-trained healthcare providers. They have the knowledge and skills to take care of your health needs effectively. So, whether you need treatment, advice, or just a check-up, you can trust that you're seeing a doctor who knows what they're doing</p>
+                        <!-- <a href="#">
+                            <div class="cardBtn">
+                                <img src="next.png" class="cardIcon">
+                            </div>
+                        </a> -->
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+            <!-------Banner And Footer -->
+        <div class="banner">
+            <div class="bannerText" data-aos="fade-right" data-aous-duration="1000">
+                <h1>
+                    To keep healthy smile on your face login Today<br> <span style="font-size: 1.6vw; font-weight: normal;" class="bannerInnerText">
+                    
+                        Stay Updated and get your all medical need taken care of !
+
+                    
+                    </span>
+                </h1>
+                <a href="#"><img src="AndroidPNG.png" alt=""></a>
+                <a href="#"><img src="iosPNG.png" alt=""></a>
+            </div>
+            <div class="bannerImg" data-aos="fade-up" data-aous-duration="1000">
+                <img src="app.png" alt="" >
+            </div>
+        </div>
+
+        <div class="footer">
+            <footer class="footer">
+                <div class="container">
+                  <div class="footer-links">
+                    <a href="#">Terms of Service</a>
+                    <a href="#">Privacy Policy</a>
+                    <a href="#">FAQ</a>
+                  </div>
+                  <div class="social-links">
+                    <a href="#">Facebook &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||</a>
+                    <a href="#">Twitter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||</a>
+                    <a href="#">Instagram</a>
+                  </div>
+                </div>
+                <p class="copyright">&copy; 2024 JANSEVAK. All rights reserved.</p>
+              </footer>
+        </div>
+    </div>
+
+
+
+
+
+
+    </div>
+
+    <script
+      src = "https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.1/aos.js"></script>
+    </script>
+    <script>
+      AOS.init();
+    </script>
+  </body>
+</html>

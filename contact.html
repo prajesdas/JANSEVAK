@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Us - Harvest Hub</title>
+  <link rel="stylesheet" th:href="@{/static/css/contact.css}">
+</head>
+<body>
+
+  <!-- Navigation Bar -->
+  <div class="nav">
+    <div class="logo_img">
+        <!-- <img src="logo1.jpg" /> -->
+    
+        <h2>&lt;JANSEVAK/></h2>
+    </div>
+    <div class="links">
+      <a href="/home" target="_self" class="mainlink"> Home </a>
+      <a href="/about" target="_self" class="don" > About Us</a>
+      <a href="/Doctor" target="_self"> Doctors </a>
+      <a href="/contact" target="_self"> Contact </a>
+      <!-- <a href="#"> Services </a> -->
+      <!-- <a href="#"> News </a> -->
+      <!-- <a class="button" href="#"> Login </a>
+      <a class="buttn" href="#"> Signup </a> -->
+    </div>
+    <a class="button" href="/login"> Login </a>
+      <a class="buttn" href="/register"> Signup </a>
+  </div>
+
+  <!-- Contact Us Section -->
+  <section class="contact">
+    <div class="container">
+      <h1>&lt;Contact Us/&gt;</h1>
+      
+    
+       <h3>If you have any questions or inquiries, feel free to get in touch with us using the form below:</h3>
+      <form action="#" method="POST" id="contactForm">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" placeholder="Enter your username" name="name" required>
+
+        <label for="email" >Your Email:</label>
+        <input type="email" id="email" placeholder="Enter your Email" name="email" required>
+
+        <label for="message" >Your Message:</label>
+        <textarea id="message" name="message" placeholder="Write you message here" rows="4" required></textarea>
+
+        <button type="submit">Send Message</button>
+      </form>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-links">
+        <a href="#">Terms of Service</a>
+        <a href="#">Privacy Policy</a>
+        <a href="#">FAQ</a>
+      </div>
+      <div class="social-links">
+        <a href="#">Facebook</a>
+        <a href="#">Twitter</a>
+        <a href="#">Instagram</a>
+      </div>
+    </div>
+    <p class="copyright">&copy; 2024 Harvest Hub. All rights reserved.</p>
+  </footer>
+  <script th:src="@{/static/js/contact.js}"></script>
+</body>
+</html>

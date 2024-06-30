@@ -1,0 +1,201 @@
+Doctor_Name,Specialist,Disease
+Dr. Jones,ENT Specialist,Headache
+Dr. Smith,Neurologist,Cold
+Dr. Johnson,Neurologist,Fever
+Dr. Williams,General Physician,Hypertension
+Dr. Smith,General Physician,Stomachache
+Dr. Smith,Dermatologist,Cold
+Dr. Williams,Neurologist,Diabetes
+Dr. Jones,Cardiologist,Allergy
+Dr. Johnson,Cardiologist,Hypertension
+Dr. Johnson,Neurologist,Cold
+Dr. Jones,ENT Specialist,Flu
+Dr. Williams,Neurologist,Diabetes
+Dr. Jones,Dermatologist,Stomachache
+Dr. Williams,ENT Specialist,Stomachache
+Dr. Johnson,Cardiologist,Stomachache
+Dr. Smith,Dermatologist,Cold
+Dr. Smith,Dermatologist,Cold
+Dr. Johnson,Cardiologist,Allergy
+Dr. Brown,ENT Specialist,Headache
+Dr. Smith,Dermatologist,Allergy
+Dr. Williams,Cardiologist,Cold
+Dr. Williams,General Physician,Asthma
+Dr. Brown,Neurologist,Fever
+Dr. Williams,Neurologist,Headache
+Dr. Smith,General Physician,Diabetes
+Dr. Jones,ENT Specialist,Stomachache
+Dr. Johnson,General Physician,Headache
+Dr. Smith,Cardiologist,Hypertension
+Dr. Johnson,Cardiologist,Hypertension
+Dr. Williams,ENT Specialist,Flu
+Dr. Williams,Cardiologist,Allergy
+Dr. Brown,ENT Specialist,Diabetes
+Dr. Johnson,Cardiologist,Flu
+Dr. Williams,Dermatologist,Stomachache
+Dr. Williams,ENT Specialist,Cold
+Dr. Johnson,ENT Specialist,Headache
+Dr. Smith,Dermatologist,Cold
+Dr. Brown,General Physician,Cold
+Dr. Williams,General Physician,Asthma
+Dr. Smith,Cardiologist,Cold
+Dr. Jones,Neurologist,Cold
+Dr. Williams,Neurologist,Headache
+Dr. Williams,ENT Specialist,Asthma
+Dr. Smith,Cardiologist,Cold
+Dr. Johnson,Neurologist,Hypertension
+Dr. Johnson,Neurologist,Asthma
+Dr. Williams,Cardiologist,Diabetes
+Dr. Williams,Dermatologist,Diabetes
+Dr. Jones,Dermatologist,Fever
+Dr. Johnson,Neurologist,Allergy
+Dr. Johnson,Dermatologist,Asthma
+Dr. Smith,ENT Specialist,Cold
+Dr. Williams,Cardiologist,Stomachache
+Dr. Johnson,Cardiologist,Allergy
+Dr. Williams,Neurologist,Asthma
+Dr. Williams,Cardiologist,Stomachache
+Dr. Smith,Dermatologist,Asthma
+Dr. Johnson,Neurologist,Stomachache
+Dr. Jones,General Physician,Asthma
+Dr. Jones,Neurologist,Asthma
+Dr. Johnson,General Physician,Headache
+Dr. Smith,ENT Specialist,Diabetes
+Dr. Jones,General Physician,Asthma
+Dr. Williams,ENT Specialist,Hypertension
+Dr. Smith,General Physician,Asthma
+Dr. Smith,Cardiologist,Stomachache
+Dr. Smith,Cardiologist,Asthma
+Dr. Jones,ENT Specialist,Flu
+Dr. Smith,General Physician,Headache
+Dr. Johnson,Cardiologist,Headache
+Dr. Johnson,Cardiologist,Fever
+Dr. Smith,General Physician,Stomachache
+Dr. Jones,Neurologist,Asthma
+Dr. Williams,General Physician,Fever
+Dr. Brown,Cardiologist,Headache
+Dr. Brown,ENT Specialist,Cold
+Dr. Williams,Cardiologist,Cold
+Dr. Johnson,General Physician,Hypertension
+Dr. Brown,ENT Specialist,Asthma
+Dr. Smith,General Physician,Headache
+Dr. Johnson,Neurologist,Fever
+Dr. Johnson,Neurologist,Flu
+Dr. Jones,General Physician,Headache
+Dr. Jones,Cardiologist,Diabetes
+Dr. Brown,Cardiologist,Cold
+Dr. Jones,Cardiologist,Fever
+Dr. Johnson,Dermatologist,Flu
+Dr. Jones,Cardiologist,Stomachache
+Dr. Smith,ENT Specialist,Stomachache
+Dr. Brown,Neurologist,Fever
+Dr. Brown,Cardiologist,Fever
+Dr. Jones,General Physician,Stomachache
+Dr. Smith,General Physician,Flu
+Dr. Smith,General Physician,Flu
+Dr. Smith,Cardiologist,Allergy
+Dr. Jones,General Physician,Asthma
+Dr. Jones,Dermatologist,Allergy
+Dr. Johnson,Cardiologist,Hypertension
+Dr. Jones,Cardiologist,Diabetes
+Dr. Smith,ENT Specialist,Asthma
+Dr. Brown,General Physician,Headache
+Dr. Brown,Neurologist,Asthma
+Dr. Johnson,Neurologist,Hypertension
+Dr. Brown,ENT Specialist,Allergy
+Dr. Brown,General Physician,Cold
+Dr. Smith,Dermatologist,Diabetes
+Dr. Brown,Cardiologist,Headache
+Dr. Johnson,Dermatologist,Cold
+Dr. Smith,Cardiologist,Headache
+Dr. Smith,Dermatologist,Hypertension
+Dr. Brown,Neurologist,Flu
+Dr. Williams,Cardiologist,Cold
+Dr. Johnson,Cardiologist,Fever
+Dr. Jones,ENT Specialist,Stomachache
+Dr. Jones,Dermatologist,Cold
+Dr. Johnson,Neurologist,Allergy
+Dr. Jones,General Physician,Diabetes
+Dr. Johnson,General Physician,Asthma
+Dr. Smith,Cardiologist,Headache
+Dr. Smith,Dermatologist,Cold
+Dr. Johnson,General Physician,Asthma
+Dr. Williams,General Physician,Hypertension
+Dr. Smith,Neurologist,Stomachache
+Dr. Johnson,Cardiologist,Diabetes
+Dr. Williams,Cardiologist,Cold
+Dr. Williams,Neurologist,Asthma
+Dr. Jones,General Physician,Fever
+Dr. Jones,General Physician,Stomachache
+Dr. Johnson,Neurologist,Diabetes
+Dr. Smith,ENT Specialist,Flu
+Dr. Jones,General Physician,Diabetes
+Dr. Smith,Cardiologist,Headache
+Dr. Johnson,Dermatologist,Flu
+Dr. Smith,Cardiologist,Asthma
+Dr. Williams,Neurologist,Fever
+Dr. Brown,Cardiologist,Cold
+Dr. Johnson,Dermatologist,Diabetes
+Dr. Brown,Cardiologist,Headache
+Dr. Jones,General Physician,Headache
+Dr. Williams,General Physician,Allergy
+Dr. Smith,Neurologist,Flu
+Dr. Johnson,Neurologist,Fever
+Dr. Brown,Dermatologist,Asthma
+Dr. Smith,Neurologist,Diabetes
+Dr. Brown,Dermatologist,Stomachache
+Dr. Smith,General Physician,Headache
+Dr. Smith,General Physician,Stomachache
+Dr. Williams,Dermatologist,Headache
+Dr. Brown,Cardiologist,Fever
+Dr. Williams,Neurologist,Flu
+Dr. Brown,Dermatologist,Flu
+Dr. Johnson,General Physician,Allergy
+Dr. Smith,General Physician,Asthma
+Dr. Smith,Dermatologist,Flu
+Dr. Brown,Neurologist,Stomachache
+Dr. Brown,ENT Specialist,Hypertension
+Dr. Williams,Neurologist,Hypertension
+Dr. Smith,Cardiologist,Asthma
+Dr. Smith,ENT Specialist,Fever
+Dr. Johnson,General Physician,Cold
+Dr. Williams,Neurologist,Cold
+Dr. Williams,ENT Specialist,Cold
+Dr. Smith,Neurologist,Hypertension
+Dr. Williams,ENT Specialist,Diabetes
+Dr. Brown,General Physician,Hypertension
+Dr. Johnson,Cardiologist,Diabetes
+Dr. Brown,General Physician,Headache
+Dr. Jones,Cardiologist,Stomachache
+Dr. Williams,General Physician,Asthma
+Dr. Smith,General Physician,Hypertension
+Dr. Johnson,ENT Specialist,Allergy
+Dr. Williams,Dermatologist,Asthma
+Dr. Jones,Cardiologist,Allergy
+Dr. Smith,ENT Specialist,Headache
+Dr. Brown,Neurologist,Hypertension
+Dr. Johnson,Cardiologist,Fever
+Dr. Williams,Cardiologist,Allergy
+Dr. Johnson,Dermatologist,Allergy
+Dr. Brown,Cardiologist,Headache
+Dr. Williams,Neurologist,Fever
+Dr. Brown,Cardiologist,Allergy
+Dr. Brown,ENT Specialist,Asthma
+Dr. Brown,Dermatologist,Diabetes
+Dr. Brown,Dermatologist,Headache
+Dr. Smith,Dermatologist,Fever
+Dr. Smith,Cardiologist,Stomachache
+Dr. Smith,Cardiologist,Flu
+Dr. Smith,General Physician,Diabetes
+Dr. Smith,Neurologist,Cold
+Dr. Smith,ENT Specialist,Asthma
+Dr. Williams,Neurologist,Headache
+Dr. Smith,Cardiologist,Fever
+Dr. Brown,Cardiologist,Fever
+Dr. Smith,Dermatologist,Asthma
+Dr. Williams,ENT Specialist,Diabetes
+Dr. Brown,Dermatologist,Stomachache
+Dr. Johnson,ENT Specialist,Allergy
+Dr. Williams,Neurologist,Cold
+Dr. Johnson,Dermatologist,Allergy
+Dr. Brown,Dermatologist,Fever

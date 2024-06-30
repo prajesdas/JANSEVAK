@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wholesalers - Harvest Hub</title>
+  <link rel="stylesheet" th:href="@{/static/css/doctor.css}">
+</head>
+<body>
+
+  <!-- Navigation Bar -->
+  <div class="nav">
+    <div class="logo_img">
+        <!-- <img src="logo1.jpg" /> -->
+    
+        <h2>&lt;JANSEVAK/></h2>
+    </div>
+    <div class="links">
+      <a href="/home" target="_self" class="mainlink"> Home </a>
+      <a href="/about" target="_self" class="don" > About Us</a>
+      <a href="/Doctor" target="_self"> Doctors </a>
+      <a href="/contact" target="_self"> Contact </a>
+      <!-- <a class="button" href="#"> Login </a>
+      <a class="buttn" href="#"> Signup </a> -->
+    </div>
+    <a class="button" href="/login"> Login </a>
+      <a class="buttn" href="/register"> Signup </a>
+  </div>
+
+  <!-- Wholesalers Section -->
+  <section class="Doctors">
+    <div class="container">
+      <h1>&lt;Meet our some Doctors/&gt;</h1>
+      <div class="profile">
+        <img th:src="@{/static/images/dr1.png}" alt="wholesaler1" class="profile-avatar">
+        <h2>Sagar Dutta</h2>
+        <p>MBBS, MS</p>
+        <p>Location: Kolkata, West Bengal</p>
+        <p>Contact: duttasagar@gmail.com</p>
+      </div>
+      <div class="profile">
+        <img th:src="@{/static/images/dr2.png}" alt="Wholesaler2" class="profile-avatar">
+        <h2>Nisha Rai</h2>
+        <p>MBBS, MD</p>
+        <p>Location: Kolkata, West Bengal</p>
+        <p>Contact: nisha201@gmail.com</p>
+      </div>
+      <div class="profile">
+        <img th:src="@{/static/images/dr3.png}" alt="Wholesaler3" class="profile-avatar">
+        <h2>Prateek Meena</h2>
+        <p>MBBS, MS</p>
+        <p>Location: Mumbai, India</p>
+        <p>Contact: Prateek69@gmail.com</p>
+      </div>
+      <div class="profile">
+        <img th:src="@{/static/images/dr5.png}" alt="Wholesaler4" class="profile-avatar">
+        <h2>Girisha Kumari</h2>
+        <p>MBBS, MS</p>
+        <p>Location: Reva, Madya Pradesh</p>
+        <p>Contact: ku Girisha2002@gmail.com</p>
+      </div>
+      <div class="profile">
+        <img th:src="@{/static/images/dr4.png}" alt="Wholesaler4" class="profile-avatar">
+        <h2>Girish Patra</h2>
+        <p>MBBS, MD</p>
+        <p>Location: Kolkata, West Bengal</p>
+        <p>Contact: girish1542@gmail.com</p>
+      </div>
+      <div class="profile">
+        <img th:src="@{/static/images/dr6.png}" alt="Wholesaler4" class="profile-avatar">
+        <h2>Rinku Kumar</h2>
+        <p>MBBS, MS</p>
+        <p>Location: Patna, Bihar</p>
+        <p>Contact: Kumarrinku14@gmail.com</p>
+      </div>
+      
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-links">
+        <a href="#">Terms of Service</a>
+        <a href="#">Privacy Policy</a>
+        <a href="#">FAQ</a>
+      </div>
+      <div class="social-links">
+        <a href="#">Facebook</a>
+        <a href="#">Twitter</a>
+        <a href="#">Instagram</a>
+      </div>
+    </div>
+    <p class="copyright">&copy; 2024 Harvest Hub. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
