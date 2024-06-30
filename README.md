@@ -53,21 +53,28 @@ Thank you for using JANSEVAK! Together, we can make healthcare accessible and ef
 
 Technology Stack
 🧠 Machine Learning Algorithms:
+
 NumPy: A fundamental package for scientific computing with Python, providing support for large, multi-dimensional arrays and matrices.
 Pandas: A data manipulation and analysis library, offering data structures like DataFrames for handling structured data.
 Scikit-Learn: A robust machine learning library that offers simple and efficient tools for data mining and data analysis.
 Seaborn: A statistical data visualization library based on Matplotlib, used for making attractive and informative statistical graphics.
 Matplotlib: A plotting library for creating static, interactive, and animated visualizations in Python.
+
 🌐 Frontend:
+
 HTML: The standard markup language for creating web pages and web applications.
 CSS: A style sheet language used for describing the presentation of a document written in HTML.
 JavaScript: A programming language commonly used to create interactive effects within web browsers.
+
 🖥️ Backend:
+
 Spring Boot: An extension of the Spring framework that simplifies the setup and development of new Spring applications.
 Thymeleaf: A modern server-side Java template engine for web and standalone environments, capable of processing HTML, XML, JavaScript, CSS, and text.
 Flask: A micro web framework written in Python, known for its simplicity and ease of use.
 Scikit-Learn: Besides its role in ML algorithms, it is also used in the backend to integrate machine learning models.
+
 📊 Database:
+
 MySQL: An open-source relational database management system, widely used for storing and managing data efficiently.
 This comprehensive technology stack allows JANSEVAK to deliver robust, scalable, and efficient solutions in the healthcare domain, leveraging cutting-edge technologies to ensure the best user experience.
 
