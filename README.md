@@ -1,6 +1,6 @@
 #JANSEVAK
-🚀 Our Mission
-Our mission is to develop an AI-Driven innovative solution that addresses critical challenges in Healthcare and Well-Being.
+
+🚀 Our MissionOur mission is to develop an AI-Driven innovative solution that addresses critical challenges in Healthcare and Well-Being.
 
 🌟 Model Features:
 Personalized Health Recommendations: Promotes wellness education and helps book appointments.
