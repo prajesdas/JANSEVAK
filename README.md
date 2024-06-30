@@ -8,3 +8,14 @@ Doctor Home Page: A doctor can transfer a patient to other doctors after checkin
 Admin Home Page: Contains doctors list, patient care list, appointment details, and new doctors can be added if needed . It also has feedbacks from our patients.
 
 ![image](https://github.com/prajesdas/JANSEVAK/assets/144060681/519fa971-3d8f-413d-8b89-138e3f23d830)
+
+
+SIGN UP PAGE: Allows admin, patient and doctor sign-in pages separately. Once signed in a notification is sent in our Gmail account.
+BOOK APPOINTMENT: Patients can book appointments while the doctors can accept those appointments.
+APPOINTMENT HISTORY: Shows the history of appointments taken by the patient.
+MEDICAL CHATBOT: Predicts diseases through symptoms and once its detected, it will redirect to health insurance page only if patient cannot pay the bills.
+DOCTORS LIST: Provides a list of renowned doctors and specialists and also new doctors can be added to the website if needed. 
+FEEDBACK: Admins will have access to the feedbacks provided by the patients.
+
+![image](https://github.com/prajesdas/JANSEVAK/assets/144060681/217174a3-0f83-42e6-9e6a-a385ea5e5086)
+
