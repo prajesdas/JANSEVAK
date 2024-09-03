@@ -6,7 +6,9 @@
 Personalized Health Recommendations: Promotes wellness education and helps book appointments.
 Automated Health Insurance Processes: Streamlines customer support and assists in applying for or renewing health insurance applications with concerned banks.
 ✨ Key Functionalities:
+
 Sign-Up Page:
+
 Users can sign in as an admin, patient, or doctor.
 If a user forgets their password, a link (live for 5 minutes) to reset it is sent to their email account.
 Patient Home Page:
@@ -16,11 +18,15 @@ Apply or renew health insurance if unable to afford medical bills, with guidance
 Doctor Home Page:
 Transfer a patient to other doctors after checking their condition.
 Accept or manage appointments.
+
 Admin Home Page:
+
 Manage doctor and patient lists.
 Access appointment details and patient feedback.
 Add new doctors if needed.
+
 📝 Pages and Features:
+
 Sign-Up Page: Admin, patient, and doctor sign-in options. Notifications sent to Gmail upon signing in.
 Book Appointment: Patients can book appointments, and doctors can accept them.
 Appointment History: Displays the history of appointments taken by the patient.
@@ -30,21 +36,27 @@ Feedback: Admins can access feedback provided by patients.
 
 
 👥 Sign-Up Page:
+
 Allows admin, patient, and doctor sign-in pages separately. Once signed in, a notification is sent to our Gmail account.
 
 🗓️ Book Appointment:
+
 Patients can book appointments, and doctors can accept those appointments.
 
 📜 Appointment History:
+
 Shows the history of appointments taken by the patient.
 
 🩺 Medical Chatbot:
+
 Predicts diseases through symptoms. If a disease is detected and the patient cannot pay the bills, it will redirect to the health insurance page.
 
 🧑‍⚕️ Doctors List:
+
 Provides a list of renowned doctors and specialists. New doctors can be added to the website if needed.
 
 🗣️ Feedback:
+
 Admins will have access to the feedback provided by the patients.
 
 Thank you for using JANSEVAK! Together, we can make healthcare accessible and efficient for everyone. 💙
@@ -52,6 +64,7 @@ Thank you for using JANSEVAK! Together, we can make healthcare accessible and ef
 ![image](https://github.com/prajesdas/JANSEVAK/assets/144060681/333a3545-811c-4488-b3e0-b26197f18328)
 
 Technology Stack
+
 🧠 Machine Learning Algorithms:
 
 NumPy: A fundamental package for scientific computing with Python, providing support for large, multi-dimensional arrays and matrices.
