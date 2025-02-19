@@ -1,3 +1,5 @@
+
+
 # 🚀 **JANSEVAK**  
 
 ### **🌟 Our Mission**  
@@ -82,3 +84,10 @@ Our mission is to develop an **AI-Driven innovative solution** that addresses cr
 
 ## ⭐ **Show Your Support!**  
 If you like this project, **star this repo** and contribute! 😊✨  
+
+---
+
+## ⚖️ **Copyright Notice**  
+
+© 2025 JANSEVAK. All rights reserved. This project is **protected by copyright laws** and **cannot be copied, distributed, or modified** without prior permission.  
+
