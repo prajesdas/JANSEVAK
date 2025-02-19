@@ -91,7 +91,7 @@ Scikit-Learn: Besides its role in ML algorithms, it is also used in the backend 
 MySQL: An open-source relational database management system, widely used for storing and managing data efficiently.
 This comprehensive technology stack allows JANSEVAK to deliver robust, scalable, and efficient solutions in the healthcare domain, leveraging cutting-edge technologies to ensure the best user experience.
 
-"C:\Users\PRAJES DAS\OneDrive\Documents\JANSEVAK.mp4"
+
 
 
 
