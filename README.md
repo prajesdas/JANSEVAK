@@ -1,6 +1,6 @@
 
 
-# 🚀 **JANSEVAK**  
+# 🚀 **JANSHEVA**  
 
 ### **🌟 Our Mission**  
 Our mission is to develop an **AI-Driven innovative solution** that addresses critical challenges in **Healthcare and Well-Being.**  
