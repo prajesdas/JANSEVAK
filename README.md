@@ -78,7 +78,6 @@ Our mission is to develop an **AI-Driven innovative solution** that addresses cr
 ## 💡 **Future Enhancements**  
 🚀 **Cloud-based monitoring** for real-time updates.  
 📍 **GPS-based parking slot suggestions.**  
-📡 **IoT-based automation in healthcare services.**  
 
 ---
 
